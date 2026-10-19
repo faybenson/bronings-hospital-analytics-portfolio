@@ -16,20 +16,24 @@
 └── presentation/
  └── bronings_board_presentation.pptx
 
-Key Analytical Findings
+
+
+Bronings NHS Analytics Project
+
+ Key Analytical Findings
 
 The Bronings NHS Trust simulation identified several operational and financial performance issues:
 
-- DNA rate:13.1%, highlighting missed appointments and potential capacity loss.
-- **HRG revenue at risk: £51,800 associated with 28 blank HRG codes, indicating potential uncollected income.
-- Theatre utilisation:** 64.2%, below the 85% operational target.
-- Readmission rate:** 9.0%, requiring further investigation of patient outcomes and discharge processes.
-- Emergency Department performance:** 81.3% compliance with the four-hour target, against a 95% target.
-- RTT performance:** 74.8% compliance with the 18-week target, against a 92% target.
+- DNA rate: 13.1%, highlighting missed appointments and potential capacity loss.
+- HRG revenue at risk: £51,800 associated with 28 blank HRG codes, indicating potential uncollected income.
+- Theatre utilisation: 64.2%, below the 85% operational target.
+- Readmission rate: 9.0%, requiring further investigation of patient outcomes and discharge processes.
+- Emergency Department performance: 81.3% compliance with the four-hour target, against a 95% target.
+- RTT performance: 74.8% compliance with the 18-week target, against a 92% target.
 
-## Technical Deliverables
+Technical Deliverables
 
-The repository should contain the following files once uploaded and verified:
+The repository contains  the following files once uploaded and verified:
 
 - `reconciled_workbook.xlsx` — Excel reconciliation and data-quality checks.
 - `investigation_queries.sql` — SQL scripts used to investigate data issues.
@@ -40,5 +44,6 @@ The repository should contain the following files once uploaded and verified:
 - `Bronings_18_KPI_Framework.docx` — KPI definitions, formulas, targets, and ownership.
 - `README.md` — Project overview, findings, methods, and deliverables.
 
-Only retain filenames for files that have actually been created and uploaded. Figures should be checked against the final simulation outputs before publication.
+
+
 
